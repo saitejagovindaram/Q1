@@ -39,6 +39,7 @@ public class BinaryTree {
                 root = root.getNext();
             }
             root = tempChild.getNext();
+
         }
     }
 
